@@ -10,7 +10,9 @@ Baekjoon Step by step Tasks with _Python_
    3. 설계한 알고리즘 & 코드를 실제 구현, 해당 결과 리뷰
    4. 문제 제한 조건과 비교 or 보다 개선된 코드를 참고하여 코드의 개선 수행
     > * Tasks Link : <a href="https://www.acmicpc.net/step" target="_blank">백준 단계별 문제</a>
+    > * Tasks Link : [백준 단계별 문제](https://www.acmicpc.net/step){: target="_blank"}
     > * Blog Review : <a href="https://taker829.tistory.com" target="_blank">Taker의 대장간</a>
+    > * Blog Review : [Taker의 대장간](https://taker829.tistory.com){: target="_blank"}
     > + 참조 코드 출처 표기
     >   + 내부 참조 : 해당 코드 작성자의 ID
     >   + 외부 참조 : 해당 코드가 작성/리뷰 된 글의 링크
